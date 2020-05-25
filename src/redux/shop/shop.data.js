@@ -1,7 +1,7 @@
 /* Used as starting data for ShopPage */
 
 const SHOP_DATA = {
-   Hats: {
+   hats: {
       id: 1,
       title: 'Hats',
       routeName: 'hats',
@@ -176,7 +176,7 @@ const SHOP_DATA = {
          }
       ]
    },
-   womans: {
+   womens: {
       id: 4,
       title: 'Womens',
       routeName: 'womens',
